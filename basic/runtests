@@ -45,8 +45,8 @@ else
 fi
 
 # Write and read tests
-echo ""
-./test5 $TESTARG
+#echo ""
+#./test5 $TESTARG
 # Test 5a and 5b separate out the read and write tests into simpler components.
 # echo ""
 # ./test5a $TESTARG
@@ -70,8 +70,8 @@ fi
 # ./test7b $TESTARG
 
 # Symlink and readlink test
-echo ""
-./test8 $TESTARG
+#echo ""
+#./test8 $TESTARG
 
 # Getfs test
 echo ""
